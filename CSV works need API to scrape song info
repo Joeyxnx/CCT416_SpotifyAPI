@@ -1,0 +1,59 @@
+import spotipy
+from spotipy.oauth2 import SpotifyClientCredentials
+import pandas as pd
+
+CLIENT_ID = "f320434b7c4645439fe67fb1835011e8"
+CLIENT_SECRET = "871af3bb0722413585792bb859799c07"
+
+sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
+    client_id=CLIENT_ID,
+    client_secret=CLIENT_SECRET
+))
+
+df = pd.read_csv("Spotify-regional-global-daily-2026-03-13.csv")
+#print(df.columns)
+
+#print(df.head())
+
+selected = df[["rank", "artist_names", "track_name", "peak_rank",
+       "days_on_chart", "streams", "uri"]]
+selected["streams"] = selected["streams"].apply(lambda x: f"{x:,}")
+pd.set_option("display.max_columns",None,)
+pd.set_option("display.width", 1000)
+print(selected.head(50)) #use to change number of tracks extracted
+
+df["track_id"] = df["uri"].str.split(":").str[-1]
+
+print(df[["track_name","track_id"]].head(50))
+#ALLL GOOD
+
+#Below need API to scrape for details of all 50 songs - popularity, energy, genre, etc
+#below doesnt work but this is what ChatGPT gave
+
+# AUDIO FEATURES
+features = sp.audio_features(df["track_id"].tolist())
+features_df = pd.DataFrame(features)
+
+df = pd.concat([df, features_df[["danceability","energy","tempo","valence"]]], axis=1)
+
+# TRACK DATA (popularity + artist IDs)
+track_ids = df["track_id"].tolist()
+
+tracks = []
+
+for i in range(0, len(track_ids), 50):
+    tracks.extend(sp.tracks(track_ids[i:i+50])["tracks"])
+
+df["popularity"] = [track["popularity"] for track in tracks]
+
+#Genre
+genres = []
+
+for track in tracks:
+    artist_id = track["artists"][0]["id"]
+    artist = sp.artist(artist_id)
+    genres.append(", ".join(artist["genres"]))
+
+df["genre"] = genres
+
+
