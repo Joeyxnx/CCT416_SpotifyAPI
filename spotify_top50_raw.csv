@@ -1,0 +1,401 @@
+country,track_id,track_name,artist_name,track_popularity,artist_genres,danceability,energy,valence,tempo,acousticness,speechiness,loudness,instrumentalness
+United States,42UBPzRMh5yyz0EDPr6fr1,Manchild,Sabrina Carpenter,89,dance,0.731,0.685,0.811,123.01,0.122,0.0572,-5.087,0.0
+United States,04emojnbYkrRmv5qtJcgVP,What I Want (feat. Tate McRae),"Morgan Wallen, Tate McRae",92,country,0.657,0.699,0.495,115.998,0.639,0.0262,-3.92,0.0
+United States,2RkZ5LkEzeHGRsmDqKwmaJ,Ordinary,Alex Warren,95,unknown,0.368,0.694,0.391,168.115,0.704,0.06,-6.141,6.59e-06
+United States,0FTmksd2dxiE5e3rWyJXs6,back to friends,sombr,98,unknown,0.436,0.723,0.235,92.855,9.37e-05,0.0301,-2.291,8.82e-05
+United States,4gfrYDtaRmp6HPvN80V2ob,I Got Better,Morgan Wallen,88,country,0.598,0.798,0.542,84.986,0.576,0.0295,-4.587,0.000564
+United States,4AajxCEwGEsmHmT4H1TwjY,undressed,sombr,96,unknown,0.642,0.887,0.888,115.999,0.137,0.0406,-3.883,0.0
+United States,5z0LSDpPpGwc2ZyJHpsE3J,Just In Case,Morgan Wallen,86,country,0.649,0.505,0.386,145.998,0.647,0.0313,-6.664,0.0
+United States,2CGNAOSuO1MEFCbBRgUzjd,luther (with sza),"Kendrick Lamar, SZA",92,hip-hop,0.707,0.575,0.576,138.008,0.251,0.125,-7.546,0.0
+United States,4WFgvKVfEhb3IUAFGrutTR,Love Me Not,Ravyn Lenae,91,soul,0.779,0.731,0.814,114.001,0.296,0.0306,-6.176,0.0
+United States,2u9S9JJ6hTZS3Vf22HOZKg,NOKIA,Drake,94,hip-hop,0.537,0.727,0.508,106.037,0.247,0.15,-4.184,0.0
+United States,6dOtVTDdiauQNBQEDOtlAB,BIRDS OF A FEATHER,Billie Eilish,100,electro,0.747,0.507,0.438,104.978,0.2,0.0358,-10.171,0.0608
+United States,5E3XPRJVgYnxhMAFI7nZ7N,OWA OWA,Lil Tecca,85,unknown,0.719,0.729,0.444,126.005,0.0368,0.0704,-7.874,0.0
+United States,7AeM1BGYM7emrqmQn1PuWv,I'm The Problem,Morgan Wallen,86,country,0.549,0.752,0.446,92.053,0.665,0.0367,-4.94,1.2e-05
+United States,3siwsiaEoU4Kuuc9WKMUy5,No One Noticed,The Marías,93,indie-pop,0.705,0.339,0.457,97.989,0.552,0.0278,-10.612,0.0814
+United States,5IZXB5IKAD2qlvTPJYDCFB,I Had Some Help (Feat. Morgan Wallen),"Post Malone, Morgan Wallen",88,unknown,0.644,0.874,0.753,128.017,0.0113,0.0265,-4.723,0.0
+United States,6393yGahSJ9slVdOwSxOVR,Pink Pony Club,Chappell Roan,88,unknown,0.61,0.65,0.507,106.719,0.399,0.0474,-6.199,0.0
+United States,0ofHAoxe9vBkTCp2UQIavz,Dreams - 2004 Remaster,Fleetwood Mac,91,rock,0.828,0.492,0.789,120.151,0.0644,0.0276,-9.744,0.00428
+United States,221eHga9f9Ne4f8D7WVgPT,Mystical Magical,Benson Boone,92,pop,0.671,0.697,0.848,119.867,0.19,0.116,-3.851,0.0
+United States,7u7IqryLFAygWFz6bsEB7y,Blue Strips,Jessie Murph,89,unknown,0.646,0.653,0.235,133.936,0.294,0.0392,-4.132,0.0
+United States,2yWlGEgEfPot0lv3OAjuG3,Just Keep Watching (From F1® The Movie),"Tate McRae, F1 The Album",91,pop,0.656,0.796,0.425,129.956,0.0767,0.113,-5.856,0.0
+United States,7so0lgd0zP2Sbgs2d7a1SZ,Die With A Smile,"Lady Gaga, Bruno Mars",91,dance,0.519,0.601,0.498,157.964,0.289,0.0317,-7.727,0.0
+United States,0YsIYFRoxkmEvbKCwTp0Tg,20 Cigarettes,Morgan Wallen,86,country,0.629,0.57,0.399,98.015,0.725,0.0243,-5.733,0.0
+United States,3xkHsmpQCBMytMJNiDf3Ii,Beautiful Things,Benson Boone,93,pop,0.472,0.471,0.219,105.029,0.151,0.0603,-5.692,0.0
+United States,0FIDCNYYjNvPVimz5icugS,Timeless (feat Playboi Carti),"The Weeknd, Playboi Carti",95,pop,0.768,0.775,0.6,119.999,0.069,0.0466,-5.06,2.96e-06
+United States,7EW7Yivb93qKAtp5qEm5of,Dark Thoughts,Lil Tecca,91,unknown,0.801,0.773,0.709,101.935,0.055,0.155,-3.756,0.0
+United States,21IYMdzTrzSe191Cy5eMap,Sailor Song,Gigi Perez,89,unknown,0.499,0.392,0.272,95.076,0.627,0.0262,-10.441,7.1e-05
+United States,73kIKvg65QWieOKXIwyLJP,All The Way (feat. Bailey Zimmerman),"BigXthaPlug, Bailey Zimmerman",88,unknown,0.831,0.555,0.444,135.015,0.314,0.0576,-6.331,0.0
+United States,2RdEC8Ff83WkX7kDVCHseE,party 4 u,Charli xcx,93,electro,0.579,0.522,0.245,79.453,0.761,0.0993,-8.393,1.41e-05
+United States,5fZJQrFKWQLb7FpJXZ1g7K,A Bar Song (Tipsy),Shaboozey,86,unknown,0.722,0.706,0.599,80.969,0.072,0.0292,-4.857,0.0
+United States,17phhZDn6oGtzMe56NuWvj,Lose Control,Teddy Swims,92,unknown,0.561,0.604,0.242,159.92,0.199,0.0337,-4.409,1.9e-05
+United States,6Qyc6fS4DsZjB2mRW9DsQs,Iris,The Goo Goo Dolls,94,rock,0.315,0.715,0.497,155.925,0.00125,0.0362,-8.072,7.97e-06
+United States,0hta2Lb2zKJ7kEnAEZEE3G,Nope your too late i already died,"wifiskeleton, i wanna be a jack-o-lantern",92,unknown,0.704,0.597,0.978,119.993,0.105,0.036,-10.458,0.00835
+United States,76JKIsdKrAfWUMjaA0u7v5,Too Sweet,Hozier,84,singer-songwriter,0.741,0.62,0.934,117.038,0.0295,0.0412,-5.505,0.000809
+United States,0WbMK4wrZ1wFSty9F7FCgu,"Good Luck, Babe!",Chappell Roan,94,unknown,0.7,0.582,0.785,116.712,0.0502,0.0356,-5.96,0.0
+United States,0aB0v4027ukVziUGwVGYpG,tv off (feat. lefty gunplay),"Kendrick Lamar, Lefty Gunplay",92,hip-hop,0.855,0.529,0.548,100.036,0.0837,0.263,-6.679,0.0
+United States,2HRqTpkrJO5ggZyyK6NPWz,Espresso,Sabrina Carpenter,91,dance,0.699,0.776,0.708,103.963,0.131,0.0293,-5.282,5.36e-06
+United States,7KA4W4McWYRpgf0fWsJZWB,See You Again (feat. Kali Uchis),"Tyler, The Creator, Kali Uchis",93,unknown,0.558,0.559,0.62,78.558,0.371,0.0959,-9.222,7.49e-06
+United States,0qmhTHMVxnXRmT5N92wTD9,Bloodline (with Jelly Roll),"Alex Warren, Jelly Roll",90,unknown,0.621,0.779,0.513,127.925,0.255,0.056,-6.346,0.0
+United States,7B3BwNecBhKvNwSMOOl7Gk,Fame is a Gun,Addison Rae,76,unknown,0.692,0.399,0.411,137.976,0.165,0.035,-7.325,0.00109
+United States,3t6gUcGYLrUuqwpXjOFWQc,I Never Lie,Zach Top,86,unknown,0.782,0.641,0.522,107.997,0.332,0.0275,-6.431,0.00923
+United States,58ge6dfP91o9oXMzq3XkIS,505,Arctic Monkeys,86,garage,0.52,0.852,0.234,140.267,0.00237,0.0543,-5.866,5.79e-05
+United States,5mAGsieQbw180sYdL3RMKk,Love Somebody,Morgan Wallen,83,country,0.622,0.852,0.719,122.038,0.00912,0.0281,-5.182,0.000118
+United States,1BDLD4c07q0bmq2VCRsXoE,I Ain't Comin' Back (feat. Post Malone),"Morgan Wallen, Post Malone",83,country,0.372,0.727,0.741,200.363,0.566,0.0358,-4.9,0.0
+United States,3GCdLUSnKSMJhs4Tj6CV3s,All The Stars (with SZA),"Kendrick Lamar, SZA",94,hip-hop,0.695,0.633,0.557,96.782,0.0612,0.0599,-4.946,0.000195
+United States,7ne4VBA60CxGM75vw0EYad,That’s So True,Gracie Abrams,96,indie-pop,0.554,0.808,0.372,108.548,0.214,0.0368,-4.169,0.0
+United States,6AI3ezQ4o3HUoP6Dhudph3,Not Like Us,Kendrick Lamar,94,hip-hop,0.898,0.472,0.214,101.061,0.0107,0.0776,-7.001,0.0
+United States,1osfLqL6L2iQsirRf83ded,Worst Way,Riley Green,85,country,0.366,0.492,0.349,197.768,0.0899,0.0324,-7.9,0.000994
+United States,4KULAymBBJcPRpk1yO4dOG,I Remember Everything (feat. Kacey Musgraves),"Zach Bryan, Kacey Musgraves",88,country,0.429,0.453,0.155,77.639,0.554,0.0459,-7.746,2e-06
+United States,5UJbgR4XF4y1DvbkxEqe8S,Sports car,Tate McRae,89,pop,0.861,0.815,0.886,106.978,0.0505,0.0349,-3.672,0.00139
+United States,5G2f63n7IPVPPjfNIGih7Q,Taste,Sabrina Carpenter,92,dance,0.674,0.907,0.721,112.964,0.101,0.064,-4.086,0.0
+Sweden,01RdEXps15f3VmQMV6OuTM,Tusen spänn,"Tjuvjakt, Fanny Avonne",76,swedish,0.735,0.653,0.62,116.002,0.36,0.0533,-6.261,0.0
+Sweden,5xsHQu1SXYS6DYOJwIWhSC,Svagare än jag,Ida-Lova,77,unknown,0.404,0.683,0.661,162.091,0.302,0.0594,-6.969,0.0
+Sweden,57AHVmaxTYWoBBB5CFr9Ts,Sommarkatt,Lov1,64,swedish,0.695,0.676,0.431,121.962,0.101,0.0384,-6.859,0.0
+Sweden,6eIzQCYExfnNeM7KOlE3lE,Bara Bada Bastu,KAJ,75,unknown,0.757,0.889,0.754,106.037,0.0754,0.0788,-4.729,2.32e-05
+Sweden,0j2JcSeuF8ElJTrC8g6493,Djurens vaggvisa,"Humlan Djojj, Josefine Götestam",76,unknown,0.684,0.0326,0.44,66.685,0.973,0.0583,-17.898,2e-06
+Sweden,2RkZ5LkEzeHGRsmDqKwmaJ,Ordinary,Alex Warren,95,unknown,0.368,0.694,0.391,168.115,0.704,0.06,-6.141,6.59e-06
+Sweden,4zpNfuWJA3K4d9TS4qnOIB,Espresso Macchiato,Tommy Cash,84,unknown,0.682,0.699,0.697,119.889,0.0116,0.045,-6.168,9.82e-06
+Sweden,3kbNesyQPnUreP6bD7aADS,Lys på mig,Victor Leksell,65,swedish,0.521,0.693,0.666,110.274,0.258,0.0382,-5.651,0.0
+Sweden,48zbg3rmtLckXVdKracwzq,Håller Mig Själv,"ADAAM, Greekazo, ROMANOS",73,unknown,0.759,0.872,0.821,99.954,0.214,0.0616,-4.021,0.000666
+Sweden,42UBPzRMh5yyz0EDPr6fr1,Manchild,Sabrina Carpenter,89,dance,0.731,0.685,0.811,123.01,0.122,0.0572,-5.087,0.0
+Sweden,3SjXx3rbNGk8nCho8YEoz5,Det kommer aldrig va över för mig,Håkan Hellström,67,goth,0.552,0.872,0.469,127.027,0.0113,0.0459,-6.48,3.2e-05
+Sweden,2BtcfopAsabwKFovwFyvFk,BASSIANI,Soppgirobygget,71,unknown,0.611,0.96,0.624,150.035,0.0309,0.142,-5.7,0.0
+Sweden,3tgDP0BTRP10i4HkLlAER3,Om,Niklas Strömstedt,72,unknown,0.602,0.759,0.505,88.957,0.0406,0.0308,-6.646,2.38e-05
+Sweden,4v4544m9rPttWudGucbzAc,2CB,Hov1,60,swedish,0.586,0.557,0.587,99.891,0.606,0.18,-4.498,0.0
+Sweden,7Ma4xWMBilJP90yLC5H3ZY,Mitt hjärta av guld,Lia Lindstén,57,unknown,0.731,0.255,0.498,119.999,0.891,0.0474,-13.858,2.76e-06
+Sweden,3GygspQIcYy5OnRiw245Qh,Babblarnas vaggvisa,Babblarna,67,unknown,0.299,0.234,0.333,186.369,0.828,0.0321,-13.009,0.000101
+Sweden,0GRc3eGTg8HBdWLRGYgqIc,Azizam,Ed Sheeran,92,pop,0.663,0.899,0.876,127.998,0.00255,0.0473,-5.103,0.0
+Sweden,1h6bh1BOjKahFpWiKbFopa,Rina Rina,Sarettii,63,unknown,0.888,0.685,0.729,120.007,0.557,0.284,-5.428,4.02e-06
+Sweden,4AajxCEwGEsmHmT4H1TwjY,undressed,sombr,96,unknown,0.642,0.887,0.888,115.999,0.137,0.0406,-3.883,0.0
+Sweden,5MEuFY2DxrozPEgGpR8Fji,Välkommen in,Veronica Maggio,69,swedish,0.625,0.676,0.629,120.019,0.115,0.036,-7.059,0.00277
+Sweden,1oFoY6INRnHIpHY6ssPxBm,Trädgården en fredag,Veronica Maggio,69,swedish,0.607,0.847,0.731,157.004,0.135,0.055,-5.078,0.0
+Sweden,0IstZK4ERxONEDvE5wxwHS,Bender,Søte og Rare Gutter,73,unknown,0.761,0.691,0.705,153.011,0.24,0.188,-5.127,0.000104
+Sweden,401N7rbd6MSziVSDVTaQr7,Somna,"Humlan Djojj, Josefine Götestam",69,unknown,0.274,0.073,0.261,174.298,0.98,0.0384,-15.555,2.36e-05
+Sweden,5jlAu4lHHVzheutRcbDklk,Stjärnorna,"Humlan Djojj, Josefine Götestam",68,unknown,0.276,0.0676,0.118,71.766,0.985,0.0324,-18.426,0.00402
+Sweden,0FTmksd2dxiE5e3rWyJXs6,back to friends,sombr,98,unknown,0.436,0.723,0.235,92.855,9.37e-05,0.0301,-2.291,8.82e-05
+Sweden,2yWlGEgEfPot0lv3OAjuG3,Just Keep Watching (From F1® The Movie),"Tate McRae, F1 The Album",91,pop,0.656,0.796,0.425,129.956,0.0767,0.113,-5.856,0.0
+Sweden,04LHuPqOMSpnHFaziPq1qO,Din tid kommer - Otto Knows Remix,"Håkan Hellström, Otto Knows",63,goth,0.542,0.862,0.441,128.024,0.251,0.0969,-4.423,0.000122
+Sweden,6KOzO2mUwSwe8a9GiJAn7X,Kan Inte Gå,Bolaget,68,unknown,0.721,0.414,0.652,144.758,0.219,0.132,-9.104,0.0
+Sweden,71CFZjdSm2WSh5S6TPd69A,Hela huset,"Veronica Maggio, Håkan Hellström",65,swedish,0.607,0.704,0.564,114.049,0.342,0.0326,-3.502,0.0
+Sweden,7MzmBmyI9KkyQJaPNLdtUi,17 år,Veronica Maggio,67,swedish,0.76,0.675,0.783,106.942,0.244,0.0254,-6.299,8.42e-06
+Sweden,1aEU7mcRDTYBB4ASpqbjYE,Hon dansar vidare i livet,Hov1,68,swedish,0.655,0.651,0.782,90.054,0.0267,0.122,-7.063,0.0
+Sweden,1K2a8QcaPTDTZ1e4M0s8gQ,Tandtråd,Tjuvjakt,68,swedish,0.744,0.857,0.843,137.809,0.148,0.233,-5.315,0.0
+Sweden,4WFgvKVfEhb3IUAFGrutTR,Love Me Not,Ravyn Lenae,91,soul,0.779,0.731,0.814,114.001,0.296,0.0306,-6.176,0.0
+Sweden,1Vo4peT3VmtdLVtw1s65Cm,Ingen annan rör mig som du,Norlie & KKV,66,swedish,0.689,0.754,0.717,114.008,0.0285,0.0395,-4.433,0.0
+Sweden,3PzfAzqI03wcX8OikTdrH2,Viva La Vida,Soppgirobygget,69,unknown,0.608,0.904,0.579,139.855,0.0514,0.302,-5.842,0.0
+Sweden,0Hz0ySp6XYrBhEQPU16Hz8,Valborg,Håkan Hellström,64,goth,0.316,0.3,0.317,96.31,0.884,0.0301,-12.51,0.00368
+Sweden,57ilwMdNXbsbVaP8GtfEIB,Konfetti,"Molly Sandén, Astrid S",69,unknown,0.733,0.659,0.57,117.95,0.116,0.0468,-6.202,0.0
+Sweden,00oneQN4fZEl3tbhiNMExE,Mimosa,Darin,63,swedish,0.535,0.571,0.575,191.686,0.058,0.199,-7.882,4.96e-06
+Sweden,3QR9CKSgMGMq27gnSl5pft,Räddare i nöden,Hov1,70,swedish,0.816,0.641,0.747,108.133,0.783,0.265,-4.877,0.0
+Sweden,2yz5IaQLnO8WBCIWMXoRBS,Känn ingen sorg för mig Göteborg,Håkan Hellström,62,goth,0.242,0.824,0.503,119.036,0.000605,0.0481,-4.151,1.4e-05
+Sweden,7qLwjBWh3M2JLFlEokIjUP,Nu säger vi godnatt,"Humlan Djojj, Josefine Götestam",67,unknown,0.493,0.0509,0.0975,81.005,0.982,0.0312,-20.307,0.0252
+Sweden,5ITV0zqzjOYfFWpW0xBmRa,Show Me Love,"WizTheMc, bees & honey",94,unknown,0.714,0.691,0.155,107.15,0.0212,0.0434,-7.333,0.000292
+Sweden,0qmhTHMVxnXRmT5N92wTD9,Bloodline (with Jelly Roll),"Alex Warren, Jelly Roll",90,unknown,0.621,0.779,0.513,127.925,0.255,0.056,-6.346,0.0
+Sweden,5bpNC61pnAqXWJg8CLoxhP,Drugs N Love,Roc Boyz,66,unknown,0.594,0.909,0.597,160.097,0.0446,0.0687,-5.711,8.12e-06
+Sweden,4GK4mydvnsodLEHWb4zJV4,Sunnanvind,Mares,65,swedish,0.718,0.702,0.357,103.934,0.0184,0.0324,-6.845,1.27e-05
+Sweden,6F0EAXG5D1iFZU57wfa0Ys,Humlehum,"Humlan Djojj, Josefine Götestam",66,unknown,0.304,0.0124,0.12,68.317,0.995,0.037,-23.813,0.856
+Sweden,4o5Ob60pz8QHcFKcr4MWyf,Ikväll Igen,Bolaget,67,unknown,0.617,0.529,0.501,165.015,0.498,0.0957,-7.931,0.0
+Sweden,2IdIiiNX7SpQO9WW77aZPx,Birra,"Fjellrev, Kudos",69,unknown,0.609,0.824,0.868,149.863,0.335,0.108,-3.983,0.0
+Sweden,1Vvsi25b3d1FzEnbaCoYLm,Hur många mil,Victor Leksell,68,swedish,0.764,0.536,0.362,95.046,0.298,0.0686,-4.805,0.0
+Sweden,6sjGsKuInpaK3uoaWGe22W,Från och med Du,Oskar Linnros,65,swedish,0.599,0.803,0.392,143.013,0.0224,0.0507,-6.695,0.0342
+Nigeria,4sm7xhaW2PT4iLuTtXaKa1,99 (feat. Daecolm),"Olamide, Seyi Vibez, Asake, Young Jonn, Daecolm",62,dancehall,0.796,0.618,0.727,112.06,0.223,0.102,-8.775,0.000738
+Nigeria,54HwZc6fEmR5EnjRT4oBq5,Very Soon,"BNXN, FOLA",73,unknown,0.795,0.492,0.446,99.966,0.716,0.0975,-9.565,0.0496
+Nigeria,05lhFsOWPXRjfGA7xY7XJz,Pressure,Seyi Vibez,79,unknown,0.587,0.384,0.74,105.388,0.0351,0.218,-14.073,0.000648
+Nigeria,3wdV4OJ37JdoLyUJMm50UW,lost,"FOLA, Kizz Daniel",77,unknown,0.417,0.359,0.521,92.2,0.858,0.103,-13.971,0.00235
+Nigeria,0mCxHKr5bp05PMdD7jU4rW,Al-Jannah,"Kizz Daniel, ODUMODUBLVCK, Bella Shmurda",72,unknown,0.533,0.777,0.52,136.673,0.0771,0.27,-5.501,0.0
+Nigeria,5GyaXqMfcIGHfmTUITFacS,With You (feat. Omah Lay),"Davido, Omah Lay",83,unknown,0.695,0.836,0.814,125.002,0.0075,0.0462,-5.553,0.0246
+Nigeria,56lGvDVasowdpufZnBJbuB,Titi,"Kizz Daniel, FOLA",72,unknown,0.774,0.677,0.481,98.94,0.418,0.124,-3.894,0.00554
+Nigeria,2iCI6gHilTbSiD8a138KMU,Che Che (feat. Asake),"Young Jonn, Asake",68,unknown,0.658,0.704,0.0504,112.392,0.176,0.127,-8.617,6.43e-05
+Nigeria,5nmYNuBSh99LNDdZ0iSe2O,Get Better,"Zlatan, FOLA",75,unknown,0.64,0.538,0.521,66.304,0.387,0.354,-10.027,0.0
+Nigeria,4WnlAkJ3S0r6C7ofHy6kNP,Arike,Kunmie,76,unknown,0.641,0.493,0.147,112.61,0.709,0.213,-8.235,0.000176
+Nigeria,4DREBgUie15tAPq9KQqe2c,Laho II,"Shallipopi, Burna Boy",79,unknown,0.654,0.481,0.589,137.618,0.183,0.17,-7.284,0.0239
+Nigeria,2pNjk1fIZTMtj8ry6SdEmB,Venus,"Faceless, Serøtonin",78,unknown,0.597,0.591,0.84,200.008,0.627,0.182,-8.161,0.191
+Nigeria,52ZxqHSe1HesJPwuuBiW4U,MARIO KART,Seyi Vibez,74,unknown,0.761,0.558,0.511,115.017,0.146,0.051,-12.608,0.00368
+Nigeria,3ZR7IlqBPK8TrJyZYfFX9L,who does that? (feat. Bella Shmurda),"FOLA, Bella Shmurda",72,unknown,0.625,0.749,0.381,61.697,0.585,0.293,-6.638,7.05e-05
+Nigeria,3RMr94P81nO3GtW9MfqNp5,PITY THIS BOY (with Victony),"ODUMODUBLVCK, Victony",71,unknown,0.855,0.714,0.745,111.988,0.572,0.0555,-8.073,0.0
+Nigeria,1xFkc8KXwVk1FoG5xhcU3H,See Me See God (SMSG),Barry Jhay,71,unknown,0.743,0.672,0.435,111.974,0.333,0.132,-7.656,0.000262
+Nigeria,7msfmSm4KbVnIds5DvsGzT,Joy is Coming,Fido,76,unknown,0.908,0.608,0.812,112.001,0.0367,0.0885,-7.376,3.45e-06
+Nigeria,0OWPr4POCQ7iH9BGmTxOZV,LEGOLAS,ODUMODUBLVCK,72,unknown,0.403,0.642,0.709,60.704,0.618,0.202,-7.623,0.0
+Nigeria,6n6J0mZb0ltWlt2AqobHVd,Black Girl Magic,Kizz Daniel,69,unknown,0.655,0.781,0.902,104.944,0.489,0.116,-4.743,0.00884
+Nigeria,6zZixF6uYbtG8uiNzDO2LH,Funds (feat. ODUMODUBLVCK & Chike),"Davido, ODUMODUBLVCK, Chike",72,unknown,0.817,0.738,0.726,113.04,0.187,0.0371,-6.197,0.0
+Nigeria,2hODYSmDyWMu2C2XN4bgOV,SHAOLIN,Seyi Vibez,73,unknown,0.706,0.905,0.844,151.124,0.13,0.0865,-7.425,0.00362
+Nigeria,20l4NPs2c9OBKBKUKRjxIy,Chandelier,Monaky,72,unknown,0.721,0.636,0.466,100.031,0.446,0.0612,-9.437,0.064
+Nigeria,2JkIrQmiFXvqYQHhnPiY5D,TaTaTa (feat. Travis Scott),"Burna Boy, Travis Scott",73,dancehall,0.915,0.517,0.724,124.042,0.0653,0.189,-8.381,0.00117
+Nigeria,07eJSSPcNlkR34wVlkrCcY,Dangbana Riddim,"Bella Shmurda, FOLA",72,unknown,0.788,0.686,0.903,111.014,0.535,0.105,-6.487,1.07e-06
+Nigeria,0lhLSwvRKGHfIcVEz3uQK6,Laho,Shallipopi,79,unknown,0.965,0.435,0.559,110.03,0.331,0.175,-8.056,0.0377
+Nigeria,7mdvPu1ZAOIgMzr3sfpAqk,My Darling,Chella,81,unknown,0.832,0.494,0.619,115.032,0.293,0.0509,-9.27,0.782
+Nigeria,7L1DT2ByQ331AJkDfjvI5N,Management,"Smur Lee, BIGKHALID",72,unknown,0.836,0.707,0.731,111.988,0.0842,0.0745,-9.436,5.1e-05
+Nigeria,5hphSVebVxTpDfrk09W0hS,Doha,Seyi Vibez,72,unknown,0.534,0.691,0.343,203.894,0.421,0.428,-8.121,6.88e-05
+Nigeria,0UKX2OlSnobdX77f0Y1jok,Kai!,"Olamide, Wizkid",76,dancehall,0.573,0.726,0.567,199.061,0.505,0.284,-7.381,0.134
+Nigeria,1136eJrkWsDvReASbjLTaU,Awolowo,Fido,75,unknown,0.619,0.385,0.294,106.312,0.129,0.118,-11.272,0.00369
+Nigeria,10y7iW3rc8bzGbhAC3mNPA,Are you there?,Ayo Maff,71,unknown,0.782,0.529,0.44,112.014,0.509,0.0592,-8.626,1.42e-06
+Nigeria,4XHrQHvHWlE0RldeG8Nslq,Na Scra,Famous Pluto,72,unknown,0.89,0.886,0.836,112.03,0.183,0.0626,-5.689,0.0108
+Nigeria,5Wxkvvb6pLky16pwq4gBI3,Dealer,"Ayo Maff, Fireboy DML",72,unknown,0.49,0.651,0.567,67.813,0.714,0.138,-6.259,7.59e-06
+Nigeria,1Ss5QjczHsdYkvNsiBmoqS,Instagram,"Muyeez, Seyi Vibez",69,unknown,0.554,0.685,0.432,198.186,0.356,0.218,-7.529,0.0
+Nigeria,0Q1bMs3xLQiDEeaneehdxv,Remember,Asake,72,unknown,0.755,0.675,0.783,112.049,0.512,0.0918,-6.973,1.41e-06
+Nigeria,5VKXfM7SWob2onq118RjYJ,No Turning Back II,"Gaise Baba, Lawrence Oyor",73,unknown,0.671,0.948,0.551,113.064,0.052,0.171,-4.443,0.0
+Nigeria,2aisLWyo4vnIsh7yJHweaN,Sweet,"Spyro, Shoday",65,unknown,0.892,0.75,0.904,120.091,0.167,0.113,-5.79,0.000348
+Nigeria,2LP8KwtvzUx1onvXKQCoKR,WOTOWOTO SEASONING (feat. Black Sherif),"ODUMODUBLVCK, Black Sherif",71,unknown,0.584,0.528,0.283,102.067,0.658,0.343,-8.829,0.00566
+Nigeria,3qS4spuVywoeh9uGIpRuQh,Bout U,Rema,76,unknown,0.649,0.773,0.485,94.027,0.183,0.0474,-4.384,8.49e-06
+Nigeria,6NOrpcicPUh2eaj8bAD44u,Baby (Is it a Crime),Rema,79,unknown,0.58,0.665,0.695,129.915,0.0751,0.0438,-4.659,4.32e-06
+Nigeria,78lEwmE6xpWtwHhS8D9Fw2,Escaladizzy,"Mavo, WAVE$TAR",59,unknown,0.591,0.866,0.62,157.349,0.175,0.0556,-4.46,0.0
+Nigeria,0VjzaXw81JQJM61pzWwP8b,Nzaza,Asake,70,unknown,0.72,0.602,0.709,93.966,0.23,0.07,-6.797,0.00472
+Nigeria,4xVj25uTjTZCaHbSFbYwAE,Hey Jago,"Poco Lee, Shoday, Rahman Jago",71,unknown,0.772,0.95,0.795,125.002,0.21,0.243,-4.359,1.19e-06
+Nigeria,1k51Q6GFWBbsaWlBB2gnzo,Gimme Dat (feat. Wizkid),"Ayra Starr, Wizkid",78,unknown,0.739,0.754,0.596,94.851,0.00851,0.177,-5.284,0.0
+Nigeria,13VXuHw3O8Yt7VwRIDqSo4,MMS,"Asake, Wizkid",75,unknown,0.502,0.634,0.645,101.837,0.677,0.144,-3.367,0.0341
+Nigeria,4OnCrs3h948Ee4yLLTcaRx,JUJU (with Smur Lee & Shallipopi),"ODUMODUBLVCK, Smur Lee, Shallipopi",67,unknown,0.848,0.687,0.585,113.038,0.0434,0.0716,-8.457,0.225
+Nigeria,4uLBwGnr1U3ctcDZrnVEgK,WHY LOVE,Asake,72,unknown,0.791,0.489,0.556,111.997,0.024,0.0733,-8.061,0.00253
+Nigeria,6JvWMLscnWYkgX1zPufIGT,Kese (Dance),Wizkid,75,dancehall,0.775,0.874,0.915,118.082,0.143,0.0503,-5.635,0.393
+Nigeria,5EMD7ozaMBD2GJCUHD5nVn,Feeling,FOLA,67,unknown,0.512,0.684,0.478,109.508,0.703,0.0633,-6.59,0.000384
+Nigeria,3H2bLX6U4kNuv04iTkCrSp,HAUSAPIANO - Remix,"Kvng Vinci, Zerrydl",70,unknown,0.796,0.636,0.433,116.032,0.463,0.127,-9.828,0.0319
+Mexico,6eLQXa6uk2EW8drsiKbABZ,TU SANCHO,Fuerza Regida,90,unknown,0.689,0.84,0.631,120.012,0.576,0.0457,-6.423,0.0
+Mexico,3hpm0fTeSqlhJbnqAgaLZs,Marlboro Rojo,Fuerza Regida,91,unknown,0.773,0.645,0.923,114.996,0.342,0.0349,-6.376,3.38e-06
+Mexico,4oB8Xd7gMlUEtWoD8bmCXW,Morena,"Neton Vega, Peso Pluma",92,unknown,0.697,0.776,0.189,118.007,0.379,0.0308,-7.409,0.00148
+Mexico,7DkOpEOBOwHg6VBj4blikS,Triple Lavada (feat. Victor Mendivil) - Remix,"Esau Ortiz, Luis R Conriquez, Oscar Maydon, Alemán, Victor Mendivil",79,unknown,0.928,0.614,0.698,100.03,0.252,0.105,-6.85,1.81e-05
+Mexico,5MBAaEt7s8El3WWhYinLzv,Amigos? No.,"Oscar Maydon, Neton Vega",68,unknown,0.682,0.561,0.669,122.074,0.0782,0.0318,-8.435,1.47e-05
+Mexico,3jS9G4KmuOwuawj3k4Smpc,Vita Fer,"Los Dareyes De La Sierra, Tito Double P",83,unknown,0.769,0.81,0.753,125.02,0.351,0.0623,-3.567,0.0
+Mexico,4LDd2UU8XdtJRrIyPvR9vW,Ay Mamita,Alan Arrieta,83,unknown,0.929,0.679,0.807,94.035,0.118,0.242,-4.318,2.57e-06
+Mexico,6uroNiDEDd0xFLiri0aQNk,Triple Lavada,Esau Ortiz,91,unknown,0.909,0.583,0.557,100.012,0.417,0.0847,-5.735,0.0
+Mexico,2JPctdUgvkQSpnUdfROxvY,Te Quería Ver,"Alemán, Neton Vega",84,unknown,0.807,0.763,0.448,100.033,0.186,0.0624,-5.172,1.69e-05
+Mexico,7585wxMp2e3IhBq3tJAXgw,SUIZA,Calle 24,86,unknown,0.69,0.66,0.588,115.987,0.634,0.0775,-8.256,0.000793
+Mexico,77pDO4WZPIdkwFve0iHWnb,Por Esos Ojos,Fuerza Regida,85,unknown,0.696,0.678,0.522,102.48,0.31,0.0695,-7.002,0.0
+Mexico,1a7onn7lPqqRWul5ogyMyX,ANSIEDAD,Fuerza Regida,87,unknown,0.659,0.684,0.737,107.057,0.421,0.0336,-7.631,0.0
+Mexico,3KgHiAVuP88QoQs9CO4z1P,TATTOO,Tito Double P,90,unknown,0.755,0.747,0.463,109.897,0.482,0.0656,-4.278,5.48e-06
+Mexico,0mfemgLsr0ucLSOBOc4xJ0,CHAMPAGNE,Tito Double P,88,unknown,0.759,0.795,0.738,110.052,0.59,0.0608,-5.199,1.9e-06
+Mexico,0L5gbpFGU06vqSHacOxgka,TU TU TU,"Clave Especial, Edgardo Nuñez",86,unknown,0.768,0.816,0.828,142.163,0.169,0.0755,-5.264,5.1e-05
+Mexico,0TOQQZVCZdMFMxzHT6WEtD,La Pantera,"Marcos Villalobos, Alan Arrieta",86,unknown,0.7,0.412,0.378,191.937,0.292,0.389,-7.064,0.0
+Mexico,4eLDmhsJW3JoZTXCAozHor,Loco,Neton Vega,86,unknown,0.849,0.708,0.636,91.981,0.0741,0.0686,-5.502,0.00768
+Mexico,4N1dogCaVWnGyFdPjdqNWF,COMO CAPO,"Clave Especial, Fuerza Regida",87,unknown,0.767,0.768,0.802,133.082,0.147,0.0474,-4.529,0.0
+Mexico,07bruo5RoHasGqnun1Z31S,Chiquita,"Neton Vega, Tito Double P",88,unknown,0.745,0.862,0.815,138.065,0.519,0.058,-6.345,2.29e-05
+Mexico,27aWzQn0uCuEwHkNlKi1jP,Asquerosamente Rico,"Oscar Maydon, Peso Pluma",74,unknown,0.781,0.659,0.481,125.016,0.394,0.0334,-6.645,0.000111
+Mexico,3t72JCbFJ3syOhFC7x9Pa4,M&M,Neton Vega,89,unknown,0.596,0.839,0.537,178.837,0.334,0.038,-6.022,0.00713
+Mexico,5LHPcY9yd0hWVFIW4yfOCJ,Pika Pika,"Chuyin, Fuerza Regida, Jorsshh, Calle 24",88,unknown,0.716,0.808,0.788,127.023,0.207,0.0332,-6.383,4.61e-06
+Mexico,6X3h549Z7LJk881NPI5kTa,7 DÍAS,"Gabito Ballesteros, Tito Double P",77,unknown,0.838,0.746,0.577,111.913,0.386,0.0614,-3.749,0.0
+Mexico,5lKFO0PrOC9jmOlPEdjHsL,DOS DÍAS,"Tito Double P, Peso Pluma",88,unknown,0.745,0.513,0.929,109.935,0.783,0.087,-9.116,0.0
+Mexico,44xDy4h27s4ENaC8fKnCoC,Cuando No Era Cantante,"El Bogueto, Yung Beef",83,unknown,0.742,0.801,0.759,165.969,0.226,0.0495,-5.612,1.17e-05
+Mexico,5mp6OBKCAjN4UYRvhOuUze,Tu Boda,"Oscar Maydon, Fuerza Regida",68,unknown,0.694,0.651,0.472,112.648,0.496,0.0785,-6.968,1.36e-05
+Mexico,116NyTQvOVrcAWLrGwTiSA,Linda Mujer,Ian Cordova,85,unknown,0.85,0.77,0.374,100.042,0.59,0.142,-3.886,0.0
+Mexico,3D24ErT1MMmUfXWotSj2A2,ME JALO,"Fuerza Regida, Grupo Frontera",92,unknown,0.47,0.75,0.62,79.814,0.216,0.112,-5.887,0.0
+Mexico,1PREzVLuDT6PSE9sej4wnV,COQUETA,"Fuerza Regida, Grupo Frontera",90,unknown,0.74,0.819,0.884,78.975,0.244,0.0866,-4.853,0.0
+Mexico,4e76Ss3ji7HQZ4qwcPNkNA,MIENTRAS DUERMES,Junior H,86,unknown,0.752,0.645,0.923,125.132,0.246,0.037,-6.656,0.0
+Mexico,0S0r3vr9ekWX28JtCTz02t,El Primero,Panter Bélico,80,unknown,0.926,0.818,0.897,127.445,0.324,0.0417,-3.653,0.0
+Mexico,5GTBdEjZe7zEDp1N0eCZE4,HOLLYWOOD,"Peso Pluma, Estevan Plazola",85,unknown,0.707,0.683,0.545,94.979,0.7,0.191,-7.598,5.88e-06
+Mexico,6J5kc12BW5HuP3d7C3vvx8,EoO,Bad Bunny,94,latino,0.36,0.464,0.184,63.662,0.749,0.0702,-29.598,0.859
+Mexico,0LTwdL5yZ6YOTEGUQPFuSN,ROSONES,Tito Double P,88,unknown,0.802,0.726,0.604,120.129,0.704,0.0318,-5.939,9.7e-06
+Mexico,3sK8wGT43QFpWrvNQsrQya,DtMF,Bad Bunny,97,latino,0.625,0.131,0.032,136.02,0.177,0.0717,-27.405,0.218
+Mexico,2lTm559tuIvatlT1u0JYG2,BAILE INoLVIDABLE,Bad Bunny,96,latino,0.168,0.00332,0.219,119.387,0.192,0.0615,-46.113,0.79
+Mexico,6v5qt5KPQHJt5ckWuhDGtM,El Mayor De Los Ranas,"Victor Valverde, JR Torres",80,unknown,0.842,0.748,0.881,91.02,0.278,0.0706,-4.647,0.0
+Mexico,7sd6zMrgGpEa7NkQm9TRrg,NADIE,Tito Double P,87,unknown,0.702,0.843,0.526,92.604,0.465,0.114,-4.71,0.0
+Mexico,2SkB7jADnfiWH8qAE9H8cO,En Privado,"Xavi, Manuel Turizo",89,unknown,0.833,0.863,0.91,126.973,0.111,0.0377,-3.822,4.75e-06
+Mexico,4OLT65TRsOx3Iv1TlCcQVb,PRESIDENTE,"Gabito Ballesteros, Natanael Cano, Luis R Conriquez, Neton Vega",86,unknown,0.732,0.827,0.584,105.145,0.123,0.0585,-4.152,0.0
+Mexico,7x817ULPS5pcukCERAzUPh,ZAZA,"Oscar Maydon, Victor Mendivil",71,unknown,0.88,0.651,0.407,130.091,0.00655,0.332,-6.307,4.36e-05
+Mexico,3IEvQ1CzszUJtTRLmmMJ2X,5-7,"Tito Double P, Junior H",86,unknown,0.827,0.596,0.964,111.997,0.379,0.039,-8.36,0.0
+Mexico,4jwAlalnN7RjBt3lg1H56E,Lejos Estamos Mejor,Eden Muñoz,84,unknown,0.692,0.648,0.936,154.518,0.513,0.0343,-7.526,0.0
+Mexico,6RcAHyC5sAUIbPTkhOQwd8,Y LLORO,Junior H,85,unknown,0.728,0.589,0.767,77.475,0.424,0.0376,-7.115,7.78e-06
+Mexico,7mEPibyVIOAjjHcSD0K0vn,El Mayor de los Ranas (En Vivo),"Grupo Marca Registrada, Victor Valverde",86,unknown,0.747,0.809,0.922,91.017,0.332,0.0603,-7.721,0.0
+Mexico,6X6m4xmdFcz31p1h7Qg68c,EL LOKERON,Tito Double P,86,unknown,0.724,0.689,0.936,120.208,0.573,0.0524,-7.174,6.77e-06
+Mexico,4JLZyyWuvvse6xKiZqRdau,Todo a Su Tiempo,Neton Vega,85,unknown,0.801,0.884,0.87,137.944,0.751,0.0828,-6.039,0.00219
+Mexico,7obbjnrA9Z81q3F592aabg,ayy weyy,Fuerza Regida,82,unknown,0.738,0.872,0.78,123.892,0.652,0.0638,-6.595,4.97e-05
+Mexico,5LhI8m7n8xlQmNe3b7Rwis,Madonna,"Natanael Cano, Oscar Maydon",84,unknown,0.732,0.873,0.662,128.029,0.0449,0.0321,-5.965,0.000803
+Mexico,4qzgdMbUnkXaPTfstaGWcA,RZR,"Victor Mendivil, Alemán",80,unknown,0.923,0.717,0.404,140.074,0.00519,0.409,-5.143,0.000446
+South Korea,7tI8dRuH2Yc6RuoTjxo4dU,Who,Jimin,90,unknown,0.66,0.756,0.838,116.034,0.00289,0.032,-3.743,0.0
+South Korea,27xkOIER6uDLKALIelHylZ,Don’t Say You Love Me,Jin,93,k-pop,0.729,0.562,0.757,111.976,0.484,0.0304,-5.49,0.0
+South Korea,2HRgqmZQC0MC7GeNuDIXHN,Seven (feat. Latto) (Explicit Ver.),"Jung Kook, Latto",85,unknown,0.79,0.831,0.872,124.987,0.312,0.044,-4.185,0.0
+South Korea,3LWVXp636uLT356Rj08Jaz,Be Mine,Jimin,76,unknown,0.687,0.747,0.56,66.495,0.056,0.0883,-5.496,1.34e-06
+South Korea,01qFKNWq73UfEslI0GvumE,3D (feat. Jack Harlow),"Jung Kook, Jack Harlow",79,unknown,0.853,0.824,0.888,108.044,0.0322,0.103,-3.287,0.0
+South Korea,7JQH2lBMZ10ztDnpoeq6Ki,yours,데이먼스 이어 Damons year,61,unknown,0.483,0.469,0.316,109.263,0.658,0.032,-6.367,0.0
+South Korea,7gMfVc4zfNIxuMyMGglOHa,Rebirth (Intro),Jimin,76,unknown,0.372,0.567,0.0928,172.024,0.142,0.0361,-4.211,0.0
+South Korea,4xeugB5MqWh0jwvXZPxahq,Drowning,WOODZ,68,unknown,0.62,0.722,0.368,110.984,0.000562,0.0357,-4.281,2.2e-05
+South Korea,7G7mSV4BebkoHWwKTDvXu9,Winter Ahead (with PARK HYO SHIN),"V, Park Hyo Shin",84,singer-songwriter,0.36,0.316,0.229,76.844,0.858,0.0284,-9.954,0.000212
+South Korea,3coRPMnFg2dJcPu5RMloa9,Whiplash,aespa,78,k-pop,0.863,0.9,0.748,126.023,0.0953,0.0448,-2.974,0.0212
+South Korea,2KslE17cAJNHTsI2MI0jb2,Standing Next to You,Jung Kook,85,unknown,0.711,0.809,0.816,106.017,0.0447,0.0955,-4.389,0.0
+South Korea,7kjVCymE7vn0HizmGCGFWQ,Heavenly Ever After,Lim Young Woong,71,unknown,0.634,0.274,0.155,96.022,0.874,0.0299,-10.491,3.61e-05
+South Korea,4H6s1mTZcjHAMU36ZF3Xoz,Nothing Without Your Love,Jin,80,k-pop,0.494,0.837,0.246,129.843,0.00907,0.0616,-4.18,0.0
+South Korea,20QI1DhCFz7pN8rATkNguv,To Reach You,10CM,65,indie-pop,0.571,0.824,0.416,125.979,0.0139,0.0381,-3.371,0.0
+South Korea,1agDCV4zQqaFwJQNsTgmL1,Smeraldo Garden Marching Band (feat. Loco),"Jimin, Loco",72,unknown,0.79,0.915,0.726,97.47,0.0366,0.146,-2.251,0.0
+South Korea,4WrkJNGb4zUwARc0FD3iNf,Loser (feat. YENA),"Jin, YENA",80,k-pop,0.561,0.914,0.697,148.008,0.0128,0.0694,-1.911,0.0
+South Korea,3Ua0m0YmEjrMi9XErKcNiR,Like Crazy,Jimin,78,unknown,0.629,0.733,0.362,120.001,0.0025,0.0419,-5.445,0.0
+South Korea,68UrZQUuO3O6eUiD226xHg,The Chase,Hearts2Hearts,80,unknown,0.711,0.734,0.143,125.946,0.161,0.0335,-4.743,0.0015
+South Korea,6qafqn8bBMy7t5c5WqpyRk,Closer Than This,Jimin,72,unknown,0.716,0.531,0.431,87.984,0.391,0.0367,-6.051,0.0
+South Korea,5RdKO1lsHG9jhbG03LL7cv,With the Clouds,Jin,79,k-pop,0.264,0.868,0.308,101.886,0.00294,0.0637,-5.536,0.000117
+South Korea,3iJxBDym1SeqNqJqnvreHK,Never Ending Story,IU,70,k-pop,0.404,0.38,0.304,117.811,0.766,0.0361,-5.856,0.0
+South Korea,2nopDUxom21JoMzFXj9wS0,HANDS UP,MEOVV,82,unknown,0.844,0.689,0.441,140.0,0.0052,0.0522,-5.472,0.000119
+South Korea,5566hAPt0WmMPr9Xn749L7,Rope It,Jin,79,k-pop,0.547,0.856,0.597,124.075,0.0362,0.0854,-2.29,0.0
+South Korea,24Y63uAvj6Oc9jGuTlhlgf,HOT,LE SSERAFIM,76,k-pop,0.763,0.63,0.968,127.957,0.0883,0.0558,-3.406,0.0
+South Korea,1qmcc6IRvBdhmqhLhSaJoo,Background,Jin,80,k-pop,0.498,0.787,0.26,128.003,0.0543,0.0544,-5.372,0.0
+South Korea,4WUpMUjdoi47LY7gBQBXe3,Grain of Sand,Lim Young Woong,65,unknown,0.557,0.343,0.112,64.961,0.664,0.0362,-9.641,5.89e-05
+South Korea,2CGNAOSuO1MEFCbBRgUzjd,luther (with sza),"Kendrick Lamar, SZA",92,hip-hop,0.707,0.575,0.576,138.008,0.251,0.125,-7.546,0.0
+South Korea,0fK7ie6XwGxQTIkpFoWkd1,like JENNIE,JENNIE,95,k-pop,0.811,0.743,0.815,130.019,0.281,0.0611,-5.321,0.00671
+South Korea,2PlsVMcOn6ujc2UEYs2Yat,Home,Lim Young Woong,67,unknown,0.586,0.816,0.407,128.021,0.00921,0.0456,-4.513,1.08e-06
+South Korea,3vnaEaDxMKdBhqA1t0uAwl,Warmth,Lim Young Woong,67,unknown,0.354,0.232,0.342,171.198,0.79,0.0329,-7.656,0.0
+South Korea,2ryzy7LSXUDFg5G05znHsL,Dear,QWER,46,unknown,0.535,0.945,0.562,167.914,0.0569,0.124,-2.3,0.0
+South Korea,1aKvZDoLGkNMxoRYgkckZG,Magnetic,ILLIT,84,unknown,0.797,0.668,0.69,131.067,0.257,0.0687,-5.819,0.0
+South Korea,3d2bsbugow8JiNvuaRupFH,Slow Dance (feat. Sofia Carson),"Jimin, Sofia Carson",75,unknown,0.68,0.719,0.8,87.016,0.132,0.0708,-6.078,0.0
+South Korea,2GMKQPMXdOGXsQkDYBN6wF,시작의 아이 ハジマリのコ (Starting With You),MAKTUB,55,unknown,0.355,0.653,0.279,149.166,0.499,0.0462,-3.065,0.0
+South Korea,7so0lgd0zP2Sbgs2d7a1SZ,Die With A Smile,"Lady Gaga, Bruno Mars",91,dance,0.519,0.601,0.498,157.964,0.289,0.0317,-7.727,0.0
+South Korea,3f7rVNaBNocDLtPmnds9eE,"To Me, Today",Jin,79,k-pop,0.583,0.777,0.583,155.913,0.00642,0.0628,-4.664,0.0
+South Korea,6auT8cRBu3BgPRBrdVBY15,London Boy,Lim Young Woong,64,unknown,0.507,0.87,0.663,133.091,0.374,0.0346,-2.277,0.0
+South Korea,21ewxM3YvcdTj7cC0XwznO,Do or Die,Lim Young Woong,65,unknown,0.599,0.822,0.664,124.907,0.0316,0.0512,-5.031,0.0
+South Korea,2NtidJuimmXzUsExfMYcvk,"IF I SAY, I LOVE YOU",BOYNEXTDOOR,68,unknown,0.675,0.747,0.817,138.104,0.125,0.111,-5.284,0.0
+South Korea,5lKnZbdGCBViitE1Ce5TZh,Supernova,aespa,75,k-pop,0.744,0.747,0.368,120.077,0.00691,0.0824,-4.281,2.03e-06
+South Korea,45zLrK0668WQ5JFMyiYmCS,Interlude : Showtime,Jimin,72,unknown,0.786,0.836,0.921,92.002,0.558,0.0633,-5.839,0.444
+South Korea,0qkYuCno3SoU8vxkCdx0iJ,THUNDER,SEVENTEEN,86,k-pop,0.752,0.837,0.718,129.988,0.0332,0.0632,-4.996,0.0
+South Korea,3GG5KPuvG7qokLoKReboHI,Paint On Spring - Remastering,Martin Smith,58,unknown,0.623,0.759,0.576,98.047,0.136,0.0439,-4.945,0.0
+South Korea,4XLfRpryO7Qn0SXp1ARIfj,123-78,BOYNEXTDOOR,75,unknown,0.635,0.85,0.752,138.078,0.282,0.0757,-3.67,0.0
+South Korea,2sDcIrosoXqiGv1D5OQUvF,Dash,PLAVE,71,unknown,0.65,0.65,0.369,103.071,0.0219,0.0535,-5.663,0.0
+South Korea,50zAEIE4B1QqhPjRMK2Xmh,Running Wild,Jin,79,k-pop,0.487,0.711,0.317,146.921,0.000175,0.0322,-4.22,0.0
+South Korea,6oNLSQX8bcAdbCElZYju3v,Supersonic,fromis_9,70,unknown,0.672,0.801,0.415,140.025,0.0539,0.0413,-3.968,0.0
+South Korea,5LrN7yUQAzvthd4QujgPFr,Here With Me,d4vd,90,unknown,0.575,0.45,0.263,132.039,0.531,0.0259,-9.306,6.59e-05
+South Korea,1k68vKHNQXU5CHqcM7Yp7N,HAPPY,DAY6,64,unknown,0.535,0.963,0.614,80.002,0.000873,0.0798,-3.363,0.0
+South Korea,0a4MMyCrzT0En247IhqZbD,Hype Boy,NewJeans,79,unknown,0.593,0.935,0.783,99.976,0.268,0.225,-3.43,0.0
+Japan,27xkOIER6uDLKALIelHylZ,Don’t Say You Love Me,Jin,93,k-pop,0.729,0.562,0.757,111.976,0.484,0.0304,-5.49,0.0
+Japan,3huSUfmhUr4entz2S0G31O,クスシキ,Mrs. GREEN APPLE,82,j-rock,0.578,0.786,0.911,137.909,0.00163,0.0491,-3.614,0.0
+Japan,7BPgsEG645OAnpetcBbLrZ,breakfast,Mrs. GREEN APPLE,72,j-rock,0.794,0.827,0.93,121.991,0.0532,0.0436,-4.324,0.0
+Japan,78W4mTLIh4qoLu92W4IQhO,ライラック,Mrs. GREEN APPLE,81,j-rock,0.531,0.794,0.775,149.923,0.0176,0.0964,-4.363,0.0
+Japan,5JTNhYqB0eG0ivgZcBviJ0,ROSE,HANA,79,cantopop,0.754,0.859,0.367,124.983,0.0698,0.0619,-4.424,0.0
+Japan,20mMzqcOAO1J5qmM7Q6sP0,Burning Flower,HANA,59,cantopop,0.712,0.716,0.609,132.004,0.0303,0.0402,-4.387,0.0
+Japan,7sMRDjjwsB7wQEBOkdfg0i,Kaiju,sakanaction,68,j-rock,0.591,0.818,0.634,90.014,0.0998,0.05,-2.825,1.73e-06
+Japan,2eKEFanCoyAlSPc5XPSkrj,天国,Mrs. GREEN APPLE,79,j-rock,0.457,0.693,0.255,119.951,0.109,0.0697,-5.043,0.0
+Japan,5BC6kr6etk2Y9J62AyI4i3,青と夏,Mrs. GREEN APPLE,77,j-rock,0.31,0.891,0.748,184.886,0.00157,0.0469,-1.66,0.0
+Japan,0teqQ0PYqVDyyXJuPOyMhu,ケセラセラ,Mrs. GREEN APPLE,78,j-rock,0.756,0.578,0.677,115.004,0.0306,0.0327,-4.575,0.0
+Japan,35MeePbBnryubkVG0v8GbI,ブルーアンバー,back number,78,j-rock,0.483,0.594,0.421,76.91,0.221,0.0308,-4.491,0.0
+Japan,7tI8dRuH2Yc6RuoTjxo4dU,Who,Jimin,90,unknown,0.66,0.756,0.838,116.034,0.00289,0.032,-3.743,0.0
+Japan,7KNY1e9x1MDvpBAmIAN3tz,夢中,BE:FIRST,80,unknown,0.676,0.598,0.735,83.936,0.4,0.148,-5.987,0.0
+Japan,62x4EMPyCFF2Ohv7qDjalp,ダーリン,Mrs. GREEN APPLE,78,j-rock,0.556,0.645,0.407,134.857,0.115,0.0425,-4.331,0.0
+Japan,3YML5IHoqWbw9c9vJJvrvM,Soranji,Mrs. GREEN APPLE,76,j-rock,0.48,0.669,0.378,155.89,0.0693,0.0431,-5.168,0.0
+Japan,2zxK14g3shGRbgjUmKaj2x,SAD SONG,CHANMINA,73,unknown,0.509,0.847,0.658,171.937,0.00164,0.0506,-4.935,0.0
+Japan,6xLSq48LkhwFTwKx442veN,GOD_i,Number_i,75,unknown,0.662,0.688,0.548,87.021,0.0631,0.101,-5.09,0.0
+Japan,3gQ19Wo6CbBpdHYmt2GVt0,Kaiju no Hanauta,Vaundy,49,j-pop,0.335,0.943,0.64,75.093,0.00334,0.067,-3.176,0.0
+Japan,6DYV1GqwCTrvfPcjeFwjLt,ビターバカンス,Mrs. GREEN APPLE,77,j-rock,0.632,0.94,0.751,132.224,0.0203,0.0826,-2.431,0.0
+Japan,5LkmpgQYtwHtuvASgnLBe1,ダンスホール,Mrs. GREEN APPLE,51,j-rock,0.736,0.695,0.784,109.976,0.0209,0.0468,-3.87,0.0
+Japan,4ujiGt8LsQUoZF7wR0BZxW,Drop,HANA,71,cantopop,0.691,0.829,0.53,83.447,0.022,0.106,-4.932,0.0
+Japan,7rPEpMvt6O2Np1i7TFk3Hc,TWILIGHT!!!,King Gnu,78,j-pop,0.718,0.901,0.655,114.992,0.26,0.0498,-5.12,0.000155
+Japan,09O5p1IP5i2xldBScLpXX7,PUZZLE,Shota Shimizu,76,j-pop,0.602,0.711,0.657,94.979,0.0997,0.0319,-4.263,0.0
+Japan,2vOAHp8PBBFYqvQUWSoITY,インフェルノ,Mrs. GREEN APPLE,76,j-rock,0.533,0.918,0.662,92.504,0.00894,0.0616,-2.095,0.0
+Japan,0tnhoHUrHfcLi9hPknUFZ4,僕のこと,Mrs. GREEN APPLE,74,j-rock,0.439,0.708,0.454,160.027,0.0129,0.0528,-3.825,0.0
+Japan,1gosofqcJ7t3IUrQpDwGVL,BON,Number_i,71,unknown,0.754,0.764,0.649,88.037,0.0101,0.221,-6.554,0.0
+Japan,4PCQHOJFMV9BWq46UMVf2l,familie,Mrs. GREEN APPLE,76,j-rock,0.67,0.827,0.761,95.472,0.0516,0.0797,-4.481,0.0
+Japan,0voOaunLYYqPHrsgXbFVlW,I wonder,Da-iCE,74,j-pop,0.785,0.618,0.866,124.957,0.512,0.059,-3.865,0.0
+Japan,6QGuDk8tY8Lan39gTWtXWK,恋風,Lilas,76,unknown,0.71,0.663,0.69,96.88,0.477,0.0569,-4.795,0.0
+Japan,7Md0Rk4s9khBtVpSD03bWl,点描の唄,"Mrs. GREEN APPLE, Sonoko Inoue",44,j-rock,0.53,0.628,0.297,76.055,0.447,0.0253,-4.641,0.0
+Japan,2jdbZGFp8KVTuk0YxDNL4l,高嶺の花子さん,back number,76,j-rock,0.54,0.923,0.343,137.977,0.066,0.0623,-2.838,0.0
+Japan,1KLg01cjnRsENoFhJWUTSd,Plazma,Kenshi Yonezu,77,anime,0.603,0.904,0.635,173.057,0.0224,0.293,-5.933,0.0
+Japan,5Ak1F5nGzM4KRhE0H1Q3CP,幾億光年,Omoinotake,72,j-pop,0.565,0.793,0.525,95.586,0.0127,0.041,-4.439,1.11e-06
+Japan,0fsVjBFdwAzVViFD5KIIsA,Can't we just be cute? -Kawaii Dakejya Damedesuka?-,CUTIE STREET,48,unknown,0.639,0.903,0.848,172.063,0.324,0.0599,-2.96,0.00235
+Japan,170XOP1T4MvY9TLTgPw07D,Magic,Mrs. GREEN APPLE,75,j-rock,0.671,0.758,0.537,117.51,0.0604,0.0474,-3.793,0.0
+Japan,0JcI7OdALbpSFkyKoufRYs,ロマンチシズム,Mrs. GREEN APPLE,73,j-rock,0.598,0.878,0.901,125.529,0.0038,0.0634,-3.144,0.0
+Japan,7rA2RuTx1dHadrZcoKh8O9,GOAT,Number_i,71,unknown,0.664,0.911,0.741,179.971,0.0307,0.312,-2.843,0.0
+Japan,3QIAwtEEDOrv0g5NKCGrXZ,花束,back number,75,j-rock,0.519,0.713,0.505,159.963,0.0178,0.0324,-3.612,0.0
+Japan,1JdUw14vtWg9Vt4aRfHqwl,INZM,Number_i,70,unknown,0.71,0.813,0.558,113.005,0.0109,0.219,-5.009,0.0
+Japan,7CmWXD3w1xOO53AAO4LRVQ,愛をこめて花束を,Superfly,72,j-rock,0.37,0.8,0.451,161.934,0.151,0.0436,-3.403,3.33e-06
+Japan,075HUD50Nuea3rNaABIsNZ,晩餐歌 - Bansanka,tuki.,74,unknown,0.636,0.625,0.652,103.008,0.353,0.0253,-4.383,0.0
+Japan,0dzbNEBsrs17os3jJOFLar,IS THIS LOVE,XG,78,unknown,0.758,0.708,0.462,130.038,0.0351,0.0721,-5.652,0.0
+Japan,3RvdkNMcSy71m0aT6UF9Uf,水平線,back number,74,j-rock,0.424,0.761,0.424,145.816,0.0103,0.0305,-3.526,0.0
+Japan,4wJ5Qq0jBN4ajy7ouZIV1c,APT.,"ROSÉ, Bruno Mars",89,k-pop,0.777,0.783,0.939,149.027,0.0283,0.26,-4.477,0.0
+Japan,0NHu2Lo9MWkvhOggEy1bYg,BOW AND ARROW,Kenshi Yonezu,76,anime,0.604,0.884,0.693,179.954,0.029,0.171,-5.457,2.86e-06
+Japan,3ySFBoxNHK3YgU1D9AyMl3,SAD SONG - From THE FIRST TAKE,"CHANMINA, No No Girls FINALISTS",63,unknown,0.412,0.625,0.259,79.948,0.0922,0.039,-7.962,0.0
+Japan,5NqGfELjcdvRIUuhgZJ34W,Marigold,Aimyon,60,acoustic,0.545,0.745,0.413,106.094,0.0452,0.0286,-3.098,0.0
+Japan,0qkYuCno3SoU8vxkCdx0iJ,THUNDER,SEVENTEEN,86,k-pop,0.752,0.837,0.718,129.988,0.0332,0.0632,-4.996,0.0
+Japan,0fK7ie6XwGxQTIkpFoWkd1,like JENNIE,JENNIE,95,k-pop,0.811,0.743,0.815,130.019,0.281,0.0611,-5.321,0.00671
+Japan,5W7Y92LB4jWvu9NeEQ0GZl,なんでもないよ、,Macaroni Empitsu,71,j-rock,0.598,0.511,0.652,171.845,0.245,0.0423,-6.015,0.0
+India,5ThyDv6aRVU8AH4vXQNldF,Finding Her,"Kushagra, Bharath, Saaheal",88,unknown,0.558,0.378,0.44,170.195,0.894,0.0526,-6.419,2.32e-06
+India,5UGrftqh9U3zKQUt3vs7Ob,Supreme,Shubh,85,hip-hop,0.743,0.642,0.156,165.966,0.00445,0.0482,-3.758,0.0
+India,4Q0qVhFQa7j6jRKzo3HDmP,Sapphire,Ed Sheeran,81,pop,0.631,0.72,0.394,95.011,0.0163,0.0655,-6.152,0.0
+India,4vHRQnzGcKEtqsLH70tAms,"Raanjhan (From ""Do Patti"")","Sachet-Parampara, Parampara Tandon, Kausar Munir",87,unknown,0.444,0.49,0.2,92.107,0.809,0.0295,-7.328,2.96e-05
+India,0eCajpR75pDW0r64U6hP2x,Jo Tum Mere Ho,Anuv Jain,85,indian,0.46,0.302,0.176,123.871,0.661,0.0398,-12.934,0.0
+India,1hlbywc8Jhl1FFqJxAMabE,Ishq,"Faheem Abdullah, Rauhan Malik, Amir Ameer",81,unknown,0.39,0.558,0.292,94.788,0.499,0.0282,-8.92,0.0284
+India,2HI1eYwbbiJGqi0XaeByOI,Shaky,"Sanju Rathod, G-SPXRK",78,unknown,0.796,0.841,0.89,108.913,0.144,0.144,-2.524,0.000773
+India,2cPUB8EOT6AfJ8oxhyoNXL,Ye Tune Kya Kiya,"Pritam, Javed Bashir",82,indian,0.578,0.798,0.728,91.96,0.58,0.0699,-6.01,0.0
+India,1hA697u7e1jX2XM8sWA6Uy,Apna Bana Le,"Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya",80,unknown,0.586,0.562,0.436,93.982,0.803,0.0267,-7.399,5.52e-06
+India,4FeczSomVWVyU4FW7xDeAI,Tere Bina,"A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan",81,pop-film,0.744,0.7,0.867,144.033,0.278,0.0375,-7.663,0.000155
+India,5FDVyL6VahLO3B4T7xRYD9,Qatal,"Guru Randhawa, Sanjoy, Gill Machhrai",83,hip-hop,0.73,0.767,0.477,95.109,0.109,0.152,-4.147,1.56e-06
+India,2oJxsbdvHuzkQ44hoyMsis,"Laal Pari (From ""Housefull 5"")","Yo Yo Honey Singh, Simar Kaur, Alfaaz",80,hip-hop,0.81,0.759,0.45,115.063,0.414,0.124,-4.509,7.35e-05
+India,6nRGPf5tpeJtKpXZO5cgIT,Paro,"Aditya Rikhari, UNPLG'd",82,pop,0.694,0.292,0.733,150.495,0.907,0.139,-9.85,0.0
+India,3vCzLB6kS2lGcIpm1OOUsy,Ishq Hai,"Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",83,unknown,0.312,0.592,0.639,78.684,0.561,0.0463,-6.995,0.0
+India,4ulroyDK6rN73nVkCkWhur,Sahiba,"Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma",82,songwriter,0.642,0.372,0.341,128.094,0.58,0.0348,-14.072,0.000622
+India,7f88cYg6oaAaSJMfF2GANl,Minnalvala,"Jakes Bejoy, Sid Sriram, Sithara Krishnakumar",62,unknown,0.696,0.59,0.849,126.92,0.545,0.0356,-8.724,0.000823
+India,5zCnGtCl5Ac5zlFHXaZmhy,"Sajni (From ""Laapataa Ladies"")","Ram Sampath, Arijit Singh, Prashant Pandey",82,hip-hop,0.428,0.413,0.355,79.646,0.827,0.0281,-7.783,9.35e-06
+India,1JioaCninhpfY1filFEIZi,STFU,"AP Dhillon, Shinda Kahlon",79,hip-hop,0.879,0.676,0.362,105.007,0.522,0.0438,-6.284,0.0
+India,45PA9lW7U5LYnlpGrdTyHY,Sang Rahiyo,"Jasleen Royal, Ujjwal Kashyap",80,songwriter,0.634,0.529,0.409,94.014,0.794,0.0248,-11.374,0.0002
+India,3yHyiUDJdz02FZ6jfUbsmY,"Satranga (From ""ANIMAL"")","Arijit Singh, Shreyas Puranik, Siddharth - Garima",81,pop-film,0.273,0.405,0.534,89.48,0.735,0.0298,-5.81,0.0
+India,4d2jV5fmX6hbRwaRbY39dt,Wavy,"Karan Aujla, Jay Trak",82,hip-hop,0.567,0.752,0.498,90.027,0.04,0.0798,-3.863,0.0
+India,0SAZ4IHYMtjW4Lxrjm7NnG,Aashiq Tera,"Altamash Faridi, Sohail Sen, Mudassar Aziz",78,unknown,0.46,0.885,0.627,114.936,0.192,0.063,-5.061,0.0
+India,3yV2c3cYhkAwSsxAq6nRiv,Mann Mera,Gajendra Verma,79,pop-film,0.535,0.765,0.373,191.827,0.054,0.0444,-7.862,0.0
+India,2Fv2injs4qAm8mJBGaxVKU,"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")","Arijit Singh, Mithoon",82,pop-film,0.427,0.396,0.306,70.368,0.736,0.0366,-7.556,0.0
+India,2PvaburAUlhNHxVhw5lvOq,"Humdard (From ""Ek Villain"")",Arijit Singh,79,pop-film,0.575,0.541,0.27,87.022,0.759,0.0237,-6.45,0.0
+India,76ec1a1bkFfOqoVf6e7nae,"Zamaana Lage (From ""Metro ... In Dino"")","Pritam, Arijit Singh, Shashwat Singh, Qaisar-Ul-Jafri, Sandeep Srivastava",76,indian,0.525,0.621,0.477,121.907,0.633,0.0393,-7.503,3.61e-06
+India,4eBvRhTJ2AcxCsbfTUjoRp,Cheques,Shubh,80,hip-hop,0.742,0.627,0.356,89.998,0.262,0.0533,-8.939,1.23e-05
+India,5wqMM6wOwXmX4rc1C3lUkd,Courtside,"Karan Aujla, Signature By SB",81,hip-hop,0.664,0.695,0.556,86.885,0.0823,0.221,-4.304,0.0
+India,4Qm7r3ImER8S2Ori1gLMAf,Afsos,"Anuv Jain, AP Dhillon",82,indian,0.702,0.341,0.582,96.94,0.502,0.0349,-10.612,0.0
+India,6H7fLdt0AeWpuxUKXuXWrx,Shree Hanuman Chalisa,Hariharan,75,pop-film,0.589,0.885,0.831,91.01,0.545,0.035,-3.4,0.0
+India,7so0lgd0zP2Sbgs2d7a1SZ,Die With A Smile,"Lady Gaga, Bruno Mars",91,dance,0.519,0.601,0.498,157.964,0.289,0.0317,-7.727,0.0
+India,6kYoY0PhBelP64UMnhsEZx,"Agar Tum Saath Ho (From ""Tamasha"")","Alka Yagnik, Arijit Singh",70,k-pop,0.562,0.519,0.415,122.925,0.557,0.0326,-8.744,0.000268
+India,5fBghXeYCGIEVuExKytoJ9,Fell For You,Shubh,80,hip-hop,0.728,0.596,0.224,95.006,0.0985,0.0454,-6.803,0.00348
+India,5npFBWhVs3VVlc0nY5xQMA,"Tainu Khabar Nahi - From ""Munjya""","Sachin-Jigar, Arijit Singh",80,unknown,0.588,0.595,0.594,90.013,0.777,0.0488,-7.493,0.0
+India,2ceeTJAzKy295Fm0VsaXtE,"Tum Se (From ""Teri Baaton Mein Aisa Uljha Jiya"")","Sachin-Jigar, Raghav Chaitanya, Varun Jain, Indraneel",81,unknown,0.612,0.595,0.435,99.991,0.68,0.0331,-6.356,1.11e-06
+India,2IoZMG3RqiTmsy7Li3zGFg,"Mere Sohneya (From ""Kabir Singh"")","Sachet Tandon, Parampara Tandon, Sachet-Parampara",79,pop,0.376,0.643,0.646,136.224,0.558,0.0411,-5.713,0.0
+India,56zZ48jdyY2oDXHVnwg5Di,Tum Hi Ho,"Mithoon, Arijit Singh",81,unknown,0.529,0.451,0.309,94.054,0.788,0.025,-6.25,0.0
+India,22ZIAjVRJTjYj5EwD0MjEJ,2 Khatole (Lofi Mix),Masoom Sharma,79,unknown,0.822,0.887,0.804,106.988,0.17,0.0418,-3.992,0.0
+India,0YQJoDL6f46J0n1rOVkpxJ,Softly,"Karan Aujla, Ikky",80,hip-hop,0.735,0.564,0.902,92.986,0.191,0.204,-7.786,0.0
+India,3PWfXDaGLxwN9UJDHMEyKi,Teri Ramjhol Bole Gi (feat. Kay D & Aarohi Raghav),"Masoom Sharma, Sheenam Katholic, Kay D, Aarohi Raghav",79,unknown,0.795,0.838,0.806,106.033,0.0458,0.0335,-2.498,0.0
+India,1fkjRQA8wXPPyxqYLbxuqy,Ishq Bulaava,"Vishal-Shekhar, Sanam Puri, Shipra Goyal",77,unknown,0.578,0.713,0.625,159.915,0.618,0.0318,-7.335,3.18e-05
+India,72zHuDxFQTjbL51qJQSA7j,"Ranjha (From ""Shershaah"")","Jasleen Royal, B Praak, Romy",79,songwriter,0.603,0.573,0.236,82.941,0.478,0.0502,-5.843,0.0
+India,5J9L7IbadCt0ivs9xmNrr0,Ranjheya Ve,Zain Zohaib,78,unknown,0.51,0.479,0.4,186.299,0.249,0.0868,-9.007,0.0
+India,5ZLkihi6DVsHwDL3B8ym1t,One Love,Shubh,80,hip-hop,0.848,0.512,0.881,144.926,0.284,0.118,-7.757,0.00645
+India,2GXXZFUxYg2LvG8SR0byOE,Jeena Jeena,"Sachin-Jigar, Atif Aslam, Priya Saraiya",80,unknown,0.682,0.344,0.548,104.984,0.789,0.0281,-8.567,0.0
+India,0FBQ4NrrHUbR9kus7rzrOj,Dil Diyan Gallan,Atif Aslam,78,pop-film,0.717,0.64,0.485,105.021,0.565,0.025,-8.726,0.00139
+India,5AnWrUzsrFgBvhn6dUElnr,"Aaj Ki Raat (From ""Stree 2"")","Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya",80,unknown,0.702,0.853,0.643,116.027,0.345,0.0546,-5.164,4.19e-06
+India,3t3wsY5IdLVzB9WidegJSU,Jeene Laga Hoon,"Atif Aslam, Shreya Ghoshal, Sachin-Jigar",79,pop-film,0.533,0.732,0.554,90.315,0.166,0.0424,-7.901,0.000189
+India,3FqtduiaqnFYvBgKuc6QWQ,Winning Speech,"Karan Aujla, Seshnolan",79,hip-hop,0.461,0.78,0.448,171.285,0.128,0.363,-5.004,0.0
+India,0TL0LFcwIBF5eX7arDIKxY,Husn,Anuv Jain,80,indian,0.527,0.376,0.24,151.928,0.682,0.0298,-9.974,0.0
+Brazil,6Emsu0BaMpG0ilZCRT8KHZ,Tubarões - Ao Vivo,Diego & Victor Hugo,88,sertanejo,0.429,0.793,0.506,123.729,0.185,0.0428,-4.115,0.0
+Brazil,5Nj2UVsxXAvhfYNpcre3al,FAMOSINHA,"Dj Caio Vieira, MC Meno K, Mc Rodrigo do CN",81,unknown,0.945,0.661,0.773,130.069,0.216,0.356,-2.343,0.0
+Brazil,7EknynLJTt9YMm1HL37s5D,P do Pecado - Ao Vivo,"Grupo Menos É Mais, Simone Mendes",85,unknown,0.616,0.845,0.746,166.874,0.611,0.0729,-5.044,0.0
+Brazil,17tg01y3RhlfRKMnd333yL,Apaga Apaga Apaga - Ao Vivo,Danilo e Davi,87,unknown,0.491,0.716,0.406,187.984,0.323,0.125,-4.48,0.0
+Brazil,2ejSYn4SfoE07mXPlnYVED,Ama Um Maloqueiro,"Rafa e Junior, Hugo & Guilherme, DJ Ari SL",79,unknown,0.728,0.694,0.764,124.013,0.345,0.0385,-6.075,0.0
+Brazil,5aMgTcyBPH90hWHhbNKTwR,Entregador de Flor - Ao Vivo em Brasília,Diego & Victor Hugo,84,sertanejo,0.375,0.832,0.308,124.908,0.559,0.0748,-4.301,0.0
+Brazil,1jxQFCC0ukN7AaUwXWK0N8,Tipo Nino Vs Kabrinha,"DJ Biel Divulga, DJ Dozabri, Mc Lekão",71,unknown,0.963,0.862,0.919,130.113,0.544,0.234,-4.335,0.00158
+Brazil,3R8dmcSyROSR73XsdeSd7g,Opa Cadê Eu - Ao Vivo,Clayton & Romário,85,sertanejo,0.493,0.862,0.871,166.06,0.302,0.0813,-4.558,0.0
+Brazil,4Hk1gmBr2KVEXr3hHwSgUi,Mãe Solteira,"DG e Batidão Stronda, Mc Davi, J. Eskine, MC G15",85,unknown,0.745,0.881,0.967,140.047,0.192,0.0335,-2.964,0.0
+Brazil,2E8sqeYKsbhxrEio1U7CxM,Medley de Igaratá 6,"Mc Negão Original, DJ Guh Mix",73,unknown,0.907,0.752,0.939,130.049,0.452,0.389,-4.262,0.0
+Brazil,2Z1DmmPWD3Lm0dWAxMfjxG,Pirocada Quente,"MC Jvila, Mc Negão Original, DJ Dael, DJ Guh Mix",82,unknown,0.882,0.87,0.75,130.0,0.319,0.32,-1.803,1.74e-06
+Brazil,4y93vvzu2h8MITw7YyUTcI,Última Saudade - Ao Vivo,Henrique & Juliano,79,sertanejo,0.443,0.7,0.572,153.383,0.605,0.0422,-5.196,0.0
+Brazil,40WZQRA3T6WZFIgskIAAz7,Saudade Proibida - Ao Vivo,Simone Mendes,84,unknown,0.637,0.856,0.67,131.971,0.0783,0.045,-3.622,0.0
+Brazil,41Z4T7bmNgToR4MRaKZtxP,Mulher Sem Ciúme - Ao Vivo,Murilo Huff,76,sertanejo,0.652,0.564,0.775,97.866,0.745,0.064,-5.107,0.0
+Brazil,6Kyl2nFgU0J8WBlbBvDv6g,Coração Partido (Corazón Partío) - Ao Vivo,Grupo Menos É Mais,80,unknown,0.651,0.756,0.791,160.03,0.643,0.0865,-7.97,0.0
+Brazil,0IBCX7PC9NcfFLuyoHxTNt,Escondendo o Ouro - Ao Vivo,Zé Neto & Cristiano,80,unknown,0.658,0.631,0.654,109.855,0.761,0.0445,-5.153,0.0
+Brazil,2tUIRX4wK0COoKEorOdEpZ,Veneno - Ao Vivo,"Murilo Huff, Zé Neto & Cristiano",85,sertanejo,0.476,0.681,0.643,104.716,0.672,0.103,-3.926,0.0
+Brazil,7GNbFvEP3uKNASe3oaLl8U,Ta Rico Os Menino Do Gueto 🍀,"Mc IG, MC Ryan SP, Mc Negão Original, DJ Japa NK, DJ DAVI DOGDOG, DU'L, MC GP, MC Meno K, Mc guizinho niazi, Nickz Beatz, SiarBeats",75,funk,0.625,0.698,0.55,129.837,0.375,0.403,-5.204,0.0
+Brazil,6vGZfODFI1FxMImSUbdJhz,Resumindo - Ao Vivo,Zé Neto & Cristiano,79,unknown,0.552,0.631,0.851,195.763,0.791,0.185,-6.064,2.55e-06
+Brazil,1RnPdd7EKKhKN3E4o4DRsh,MONTAGEM BAILÃO,"Repsaj, ATLXS, Mc Jhey",86,unknown,0.67,0.976,0.34,130.103,0.027,0.044,-2.113,1.59e-06
+Brazil,3vpmGewnBcIfbm252E3Xx8,Cara da Serenata - Live,"Luccas & Rodrigo, Vitor e Luan",81,unknown,0.639,0.675,0.576,95.488,0.653,0.0933,-6.141,0.0
+Brazil,10MsXPpQLz5ZrOEZxTtkIm,Olha Onde Eu Tô,Ana Castela,76,unknown,0.731,0.832,0.732,117.949,0.0223,0.0431,-4.324,0.0
+Brazil,2ZrC9CTs01XkbFPtLbpHzl,Senta e Cala a Boca,"Mc Jacaré, DJ JHOW BEATS",82,unknown,0.568,0.614,0.46,162.56,0.434,0.152,-1.888,0.0
+Brazil,2RkZ5LkEzeHGRsmDqKwmaJ,Ordinary,Alex Warren,95,unknown,0.368,0.694,0.391,168.115,0.704,0.06,-6.141,6.59e-06
+Brazil,2j7IPPMZt5nE5R4r2AbKZ8,12 Horas / Pra Você Acreditar - Ao Vivo,"Panda, Humberto & Ronaldo, Ícaro e Gilmar, MJ Records",77,unknown,0.338,0.777,0.461,148.274,0.532,0.0468,-4.309,0.0
+Brazil,3M4HJl7D77l86gL1QXGJHG,Saudade Burra - Ao Vivo,"Lauana Prado, Simone Mendes",77,sertanejo,0.662,0.851,0.55,115.856,0.123,0.0358,-3.708,0.0
+Brazil,07kLShG3HTeLXTqnFCqNAJ,Amigo Da Minha Saudade - Ao Vivo,Henrique & Juliano,83,sertanejo,0.676,0.8,0.706,103.919,0.404,0.0462,-4.35,0.0
+Brazil,1S9fKs0sAdZPlL8ViOARnS,João 20 + pra Sempre - Ao Vivo,Vitor Santana,78,unknown,0.387,0.709,0.384,131.197,0.274,0.0404,-5.91,0.0
+Brazil,4pOGEJRVOuaa9oyy7qTGf6,Fui Mlk,"Nilo, Mc Paiva ZS, DJ Di Marques, Tropa da W&S, FamousKyo",83,unknown,0.635,0.636,0.691,128.528,0.636,0.309,-3.72,0.0
+Brazil,6id4TFeHJgvVtCzrJEysl0,Saudade De Quem Eu Sou - Ao Vivo,Henrique & Juliano,83,sertanejo,0.684,0.76,0.536,100.155,0.39,0.0866,-5.838,0.0
+Brazil,2OMkXPz6pHdKJSkzxG0MwZ,Descer,"Kew, Dj LK da Escócia",85,unknown,0.84,0.72,0.828,130.029,0.143,0.0538,-4.23,3.36e-05
+Brazil,280QfKhmWGn3LbyB39aA7u,Cópia Proibida,Léo Foguete,81,unknown,0.558,0.708,0.922,133.942,0.35,0.0318,-6.507,0.0
+Brazil,1VpOT1TfTivUmFjSGSRt1U,Olha pra Cara de Quem Te...,"MC LUUKY, MC Jvila, DJ Dael",81,unknown,0.939,0.701,0.863,131.024,0.515,0.246,-3.701,0.000116
+Brazil,2TSYxcrcrtLpdbsLY9NmzL,Me Ama Ou Me Larga - Ao Vivo,Simone Mendes,83,unknown,0.632,0.861,0.608,118.016,0.399,0.039,-4.096,1.04e-06
+Brazil,44CTudFZ0kbaIF9n0jk7oU,Ilusão De Ótica - Ao Vivo,"Matheus & Kauan, Ana Castela",74,unknown,0.618,0.887,0.802,162.992,0.392,0.0672,-3.337,0.0
+Brazil,7so0lgd0zP2Sbgs2d7a1SZ,Die With A Smile,"Lady Gaga, Bruno Mars",91,dance,0.519,0.601,0.498,157.964,0.289,0.0317,-7.727,0.0
+Brazil,4jUZymsR3lkia9wkP0o9cX,MTG NA IMAGINAÇÃO - TOPO SESSIONS VOL. 1,"DJ TOPO, Mc Livinho",81,unknown,0.64,0.588,0.379,162.568,0.605,0.177,-0.766,1.51e-05
+Brazil,6v46jy0bNem1EIbjtfJyee,DONA - Ao Vivo,"Luan Santana, Léo Foguete",81,unknown,0.485,0.776,0.45,141.874,0.539,0.0471,-6.222,0.0
+Brazil,1h0yBDChztCJRTqmI5U6ou,É Tudo Sobre Você / Ser Mudado - Ao Vivo,MORADA,77,reggae,0.428,0.681,0.301,137.912,0.546,0.0317,-7.114,7.48e-06
+Brazil,2LzXPUzL9sgeRl9a5miHMA,OUTRA,"tarisiix, fire hair, WenHard",79,unknown,0.887,0.5,0.58,90.023,0.11,0.349,-6.805,0.0206
+Brazil,6XXqPj8USz1oebSmMPCBLC,Tipo Nino Abravanel,"DJ Gouveia, DJ Dozabri, Mc Rodrigo do CN",79,unknown,0.961,0.666,0.736,130.059,0.119,0.0934,-0.687,1.07e-05
+Brazil,708yXS1fLm1gAXFyIQxtX2,Romântico - Ao Vivo,Henrique & Juliano,78,sertanejo,0.602,0.49,0.686,93.844,0.565,0.062,-7.93,2.95e-06
+Brazil,3bpNcH1SCEMn6zuynZGY5e,Fashion,"Orochi, TkN, RUXN, Kizzy, ProdSmile",79,unknown,0.582,0.472,0.146,136.794,0.319,0.0817,-8.188,0.0
+Brazil,6lrQgEPTuOKyvn4bQJuaRU,NÃO ERA LOVE,"Luan Pereira, MC Tuto, Grelo",84,sertanejo,0.792,0.712,0.87,138.943,0.393,0.0449,-4.467,0.0
+Brazil,3iDZj9V0RSElRwVgtmMYgJ,Lei Anti O.R.U.A.M,"Oruam, Victor WAO, Maurin",79,unknown,0.665,0.477,0.304,115.369,0.653,0.529,-7.596,0.0
+Brazil,5AoOD6SAzOOE6jwxvRIBPq,Baile do Panta,"Nego Trufa, Dj TC, DJ Japa NK",81,unknown,0.768,0.543,0.795,129.799,0.644,0.398,-5.68,0.0
+Brazil,7tz0PRdO9wOCHL5wr8Rne4,Princesa - Ao Vivo,"Gustavo Mioto, Ana Castela",55,sertanejo,0.627,0.538,0.401,130.051,0.698,0.0293,-5.39,0.0
+Brazil,42UBPzRMh5yyz0EDPr6fr1,Manchild,Sabrina Carpenter,89,dance,0.731,0.685,0.811,123.01,0.122,0.0572,-5.087,0.0
+Brazil,3FBs8ttL0pPOLTbC6xWpTj,THE BOX MEDLEY FUNK 6,"THE BOX, Oruam, Real Fuba, Didi, Luanzin, Neo Beats, Victor WAO",71,unknown,0.587,0.365,0.773,81.772,0.83,0.482,-11.853,0.0
+Brazil,25CffgwZg6vlUdCsHJijZo,Baqueado - Ao Vivo,"Panda, Ícaro e Gilmar, MJ Records",73,unknown,0.618,0.746,0.52,108.537,0.489,0.0367,-5.756,0.0
